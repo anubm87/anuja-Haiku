@@ -1,2 +1,3 @@
 First line of haiku
 We are doing this right.
+Smile and dance!
